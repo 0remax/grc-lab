@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Business Impact Analysis (BIA) & Continuity Matrix
-nav_order: 1
+title: Business Impact Analysis
+nav_order: 4
 ---
 
 # Business Impact Analysis (BIA) & Continuity Matrix
