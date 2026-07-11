@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information Security Policy: Cloud Storage & Access Control
+title: README
 nav_order: 2
 ---
 
