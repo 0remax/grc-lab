@@ -1,3 +1,18 @@
+---
+layout: default
+title: Incident Response Playbook
+nav_order: 6
+---
+# Incident Response & Regulatory Notification Governance
+
+## GDPR Reporting (Article 33)
+Organizations must report personal data breaches to the supervisory authority within **72 hours** of awareness.
+
+## Escalation Matrix
+1. **Identify:** Detect breach.
+2. **Notify:** Legal & GRC team notified within 1 hour.
+3. **Report:** Formal submission to regulators within 72 hours.
+
 # Incident Response & Regulatory Notification Governance Matrix
 
 ## 1. Purpose
