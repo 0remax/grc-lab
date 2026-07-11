@@ -14,7 +14,7 @@ This project demonstrates a foundational approach to Governance, Risk, and Compl
 
 ## 🔑 Key GRC Methodologies Applied
 1. **Risk Calculation**: Evaluated qualitative risk levels using the standard formula:  
-   $$\text{Risk} = \text{Likelihood} \times \text{Impact}$$
+   Risk = Likelihood x Impact
 2. **Third-Party Risk Management (TPRM)**: Analyzed a vendor SOC 2 Type II report, identifying a critical authentication deficiency in their access control structure.
 3. **Compensating Controls**: Designed defensive network perimeters to safely authorize a temporary policy exception for legacy business systems without compromising the core infrastructure.
 4. **Audit Practices**: Enforced "Trust, but Verify" principles by requiring technical configuration artifacts rather than relying on verbal assertions during compliance assessments.
