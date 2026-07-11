@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Cloud Security Policy
+title: Corporate Risk Register & Framework Alignment Project
 nav_order: 0
 ---
-# Cloud Security Policy
 
-# Cloud Security Policy
 # Corporate Risk Register & Framework Alignment Project
 
 ## Project Overview
