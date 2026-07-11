@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cloud Security Policy
+title: Business Impact Analysis (BIA) & Continuity Matrix
 nav_order: 1
 ---
 
