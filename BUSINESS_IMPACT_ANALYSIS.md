@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cloud Security Policy
+nav_order: 1
+---
+# Cloud Security Policy
+
 # Business Impact Analysis (BIA) & Continuity Matrix
 
 ## 1. Executive Summary
