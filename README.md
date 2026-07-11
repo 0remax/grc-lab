@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cloud Security Policy
-nav_order: 1
+nav_order: 0
 ---
 # Cloud Security Policy
 
