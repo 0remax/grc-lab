@@ -3,7 +3,6 @@ layout: default
 title: Cloud Security Policy
 nav_order: 2
 ---
-# Cloud Security Policy
 
 # Information Security Policy: Cloud Storage & Access Control
 
