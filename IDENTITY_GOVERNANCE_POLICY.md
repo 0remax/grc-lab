@@ -1,3 +1,15 @@
+---
+layout: default
+title: Identity Governance Policy
+nav_order: 5
+---
+# Identity Governance Policy
+Enforcing the Principle of Least Privilege (PoLP).
+
+## Core Principles
+* **Default-Deny:** All access is denied unless explicitly granted.
+* **Access Reviews:** Mandatory quarterly reviews of all privileged user accounts to prevent privilege creep.
+
 # Corporate Policy: Identity Governance & Access Control Baseline
 
 ## 1. Purpose
