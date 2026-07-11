@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information Security Policy: Cloud Storage & Access Control
+title: Information Security Policy: Cloud Storage
 nav_order: 2
 ---
 
