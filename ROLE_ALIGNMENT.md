@@ -9,7 +9,7 @@ I have structured my technical expertise to align with core Governance, Risk, an
 ## How My Portfolio Supports GRC Roles
 
 * **Third-Party Risk Analyst / Officer**
-    * **My Capability:** I utilize my [Vendor Risk Assessment](THIRD_PARTY_VENDOR_RISK.md) module to vet vendors, evaluate security postures, and identify supply chain vulnerabilities.
+    * **My Capability:** I utilize my [Vendor Risk Assessment](THIRD_PARTY_VENDOR_RISK.html) module to vet vendors, evaluate security postures, and identify supply chain vulnerabilities.
 * **Vendor Risk Analyst / Consultant**
     * **My Capability:** I am proficient in reviewing external certifications, issuing security questionnaires, and defining data access risk boundaries for third-party partnerships.
 * **IT Compliance Officer / Specialist**
